@@ -2,7 +2,7 @@
 prediction model tutorial & projects
 
 | Posting | Check | Project Title  | Methodology | Programming | URL |
-| :------: |:---: | :----------------------: | :--------------: | :------------: | :--------------: |
+| :------: |:---: | :----------------------: | :--------------: | :------------: | :----------------------------------: |
 | 1 | ✔️ | Food Demand Forecasting | XGBoost | Python | https://www.kaggle.com/datasets/kannanaikkal/food-demand-forecasting |
 
 ---------
