@@ -12,4 +12,4 @@ prediction model tutorial & projects
 | :------: | :----------------------: | :--------------: |
 | 1 | Food Demand Forecasting | 최종 제출 불가한 데이터셋으로 평가지표 결과를 확인하지 못함 |
 | 2 | Predict Future Sales | 진행중 |
-| 3 | Predict Customer Churn with Python and Machine Learning |  |
+| 3 | Predict Customer Churn with Python and Machine Learning | 완료 |
